@@ -1,4 +1,4 @@
-# PostgresSQL-Python-Practice-Questions
+# PostgreSQL-Python-Practice-Questions
 Jupyter Notebook containing 35+ questions for practicing your PostgreSQL skills in Python. Also contains a notebook with all the answers for your reference. The questions involve basic select, advanced select, aggregations and basic joins.
 <br>
 <br>
