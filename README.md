@@ -6,4 +6,11 @@ The questions in the Notebook closely follow the Hackerrank SQL questions progre
 <br>
 <br>
 **NOTE: Please place all the files including the images in the same folder as the Notebook needs access to these images.**
+<br>
+<br>
+**For detailed instructions on how to get started on PostgreSQL, please refer to the articles on my website:**
+https://vijayravi.blog/blog/f/importing-a-database-into-postgresql
+<br>
+https://vijayravi.blog/blog/f/installing-psycopg2-module-in-python-environment
+
 
